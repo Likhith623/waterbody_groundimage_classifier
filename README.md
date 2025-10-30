@@ -1,6 +1,5 @@
 # Terrestrial Waterbody Classification System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Computer%20Vision-green.svg)]()
 [![GitHub](https://img.shields.io/badge/GitHub-Likhith623-181717?logo=github)](https://github.com/Likhith623/waterbody_groundimage_classifier)
